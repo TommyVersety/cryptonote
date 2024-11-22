@@ -3,7 +3,7 @@ This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurren
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
 * CryptoNote reference implementation: [CryptoNoteCoin](https://cryptonote-coin.org)
 * Discussion board and support: [CryptoNote Forum](https://forum.cryptonote.org)
-* Create a GUI Wallet for Donut chain: (git clone https://github.com/cryptonotefoundation/cryptonotewallet.git)
+* Create a GUI Wallet for Donut chain: ( https://github.com/cryptonotefoundation/cryptonotewallet.git)
 
 ## CryptoNote forking how-to
 
